@@ -1,0 +1,62 @@
+\contentsline {chapter}{Abstract}{i}{section*.1}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Table of Contents}{ii}{section*.2}%
+\contentsline {chapter}{List of Figures}{iv}{section*.3}%
+\contentsline {chapter}{List of Tables}{v}{section*.4}%
+\contentsline {chapter}{Abbreviations}{vi}{section*.5}%
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}About company}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Modular approach}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}NODE.OS}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}NODE.EDGE}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}NODE.MESH}{4}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}NODE.SRVS}{4}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Different teams of the company}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Perception and SLAM}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Fleet management system(FMS)}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Operations}{5}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}UI/UX}{5}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}About robots}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}BMW-STR:}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}MIR100:}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}MIR200:}{7}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Care-O-Bot:}{7}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}Problem statement and research objectives}{8}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Problem statement}{8}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Desired outcome}{8}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Organization of report}{9}{subsection.1.5.3}%
+\contentsline {chapter}{\chapternumberline {2}Technical Background}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}ROS}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Rosbag}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Rosbridge}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Websockets}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}REST-API}{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}REST-API v/s Websockets}{12}{section.2.6}%
+\contentsline {section}{\numberline {2.7}RViz}{12}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Docker}{13}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Docker architecture}{13}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Docker objects}{13}{subsection.2.8.2}%
+\contentsline {section}{\numberline {2.9}VDA5050}{14}{section.2.9}%
+\contentsline {section}{\numberline {2.10}CI/CD}{16}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Webviz}{16}{section.2.11}%
+\contentsline {chapter}{\chapternumberline {3}Concept implemented}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Literature survey}{18}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Architecture}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Compare between different libraries}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Compare between Websockets-API and REST-API}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}ROSBRIDGE}{21}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Concept to visualize the map}{21}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Docker}{21}{section.3.7}%
+\contentsline {chapter}{\chapternumberline {4}Implementation}{22}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {5}Verification and Validation}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Local verification in PC}{25}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Code review}{25}{section.5.2}%
+\contentsline {section}{\numberline {5.3}CI/CD}{26}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Integration of frontend and backend}{27}{section.5.4}%
+\contentsline {chapter}{\chapternumberline {6}Conclusion and Future scope}{28}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusion}{28}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Future scope}{28}{section.6.2}%
+\contentsline {chapter}{\chapternumberline {7}References}{29}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {8}Appendix}{30}{chapter.8}%
+\contentsline {section}{\numberline {8.1}AMR}{30}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Autonomous navigation}{30}{subsection.8.1.1}%

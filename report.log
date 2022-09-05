@@ -1,0 +1,1118 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.14)  7 MAR 2022 10:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./report.tex
+(report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-05>
+(/home/sharath/.miktex/texmfs/install/tex/latex/memoir/memoir.cls
+Document Class: memoir 2021/06/16 v3.7p configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count185
+\c@@memmarkcntra=\count186
+(/home/sharath/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count187
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count188
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count196
+\c@@ppsaveapp=\count197
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks16
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count198
+\c@poemline=\count199
+\c@modulo@vs=\count266
+\c@memfvsline=\count267
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count268
+\c@chrsinstr=\count269
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count270
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box50
+\extrarowheight=\dimen144
+\NC@list=\toks17
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box51
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count271
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count272
+\@cmidlb=\count273
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count274
+\@lastruleclass=\count275
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count276
+\@linestogo=\count277
+\@cellstogo=\count278
+\@cellsincolumn=\count279
+\crtok=\toks19
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count280
+\mem@margin@floatbox=\box52
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count281
+\m@mscap@capbox=\box53
+\m@mscap@fbox=\box54
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7654.
+LaTeX Info: Redefining \emph on input line 7662.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count282
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count283
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count284
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count285
+\c@pagenoteshadow=\count286
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count287
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count288
+\c@bvlinectr=\count289
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+
+
+LaTeX hooks Warning: Generic hook 'package/before/framed' is deprecated.
+(hooks)              Use hook 'package/framed/before' instead.
+
+\c@cp@cntr=\count290
+\c@ism@mctr=\count291
+\c@xsm@mctr=\count292
+\c@csm@mctr=\count293
+\c@ksm@mctr=\count294
+\c@xksm@mctr=\count295
+\c@cksm@mctr=\count296
+\c@msm@mctr=\count297
+\c@xmsm@mctr=\count298
+\c@cmsm@mctr=\count299
+\c@bsm@mctr=\count300
+\c@workm@mctr=\count301
+\c@sheetsequence=\count302
+\c@lastsheet=\count303
+\c@lastpage=\count304
+(/home/sharath/.miktex/texmfs/install/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count305
+\c@lofdepth=\count306
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count307
+\c@lotdepth=\count308
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+
+LaTeX hooks Warning: Generic hook 'package/before/float' is deprecated.
+(hooks)              Use hook 'package/float/before' instead.
+
+) (/home/sharath/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count309
+\U@D=\dimen185
+\l@unhyphenated=\language79
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count310
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/sharath/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(/home/sharath/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen186
+\Gm@wd@mp=\dimen187
+\Gm@odd@mp=\dimen188
+\Gm@even@mp=\dimen189
+\Gm@layoutwidth=\dimen190
+\Gm@layoutheight=\dimen191
+\Gm@layouthoffset=\dimen192
+\Gm@layoutvoffset=\dimen193
+\Gm@dimlist=\toks25
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/home/sharath/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen194
+\Hy@linkcounter=\count314
+\Hy@pagecounter=\count315
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/hyperref-langpatches.d
+ef
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+) (/home/sharath/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count316
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count317
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen195
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count318
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count319
+\c@Item=\count320
+\c@Hfootnote=\count321
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+
+
+LaTeX hooks Warning: Generic hook 'package/after/nameref' is deprecated.
+(hooks)              Use hook 'package/nameref/after' instead.
+
+\c@memhycontfloat=\count322
+\c@Hpagenote=\count323
+
+LaTeX hooks Warning: Generic hook 'package/after/hypcap' is deprecated.
+(hooks)              Use hook 'package/hypcap/after' instead.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count324
+\c@bookmark@seq@number=\count325
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.s
+ty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/home/sharath/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip191
+) (/home/sharath/.miktex/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count326
+\lst@gtempboxa=\box55
+\lst@token=\toks26
+\lst@length=\count327
+\lst@currlwidth=\dimen198
+\lst@column=\count328
+\lst@pos=\count329
+\lst@lostspace=\dimen199
+\lst@width=\dimen256
+\lst@newlines=\count330
+\lst@lineno=\count331
+\lst@maxwidth=\dimen257
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count332
+\lst@skipnumbers=\count333
+\lst@framebox=\box56
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count334
+\calc@Bcount=\count335
+\calc@Adimen=\dimen258
+\calc@Bdimen=\dimen259
+\calc@Askip=\skip192
+\calc@Bskip=\skip193
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count336
+\calc@Cskip=\skip194
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen260
+\ESO@tempdimb=\dimen261
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+\AM@pagewidth=\dimen262
+\AM@pageheight=\dimen263
+\AM@fboxrule=\dimen264
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count337
+\AM@pagebox=\box57
+\AM@global@opts=\toks27
+\AM@pagecnt=\count338
+\AM@toc@title=\toks28
+\c@AM@survey=\count339
+\AM@templatesizebox=\box58
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen265
+\WF@size=\dimen266
+\c@WF@wrappedlines=\count340
+\WF@box=\box59
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/base/flafter.sty
+Package: flafter 2021/07/31 v1.4e Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+7.
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count341
+\l__pdf_internal_box=\box60
+) (report.aux (abstract.aux) (acknowledge.aux) (executive_summary.aux)
+(Abbreviations.aux) (introduction.aux) (technicalbackground.aux) (Concept.aux)
+(Implementation.aux) (Verificationandvalidation.aux) (conclusion.aux)
+(reference.aux) (appendix.aux))
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+
+(/home/sharath/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count342
+\scratchdimen=\dimen267
+\scratchbox=\box61
+\nofMPsegments=\count343
+\nofMParguments=\count344
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count345
+\MPscratchDim=\dimen268
+\MPnumerator=\count346
+\makeMPintoPDFobject=\count347
+\everyMPtoPDFconversion=\toks31
+)
+(/home/sharath/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 435.6108pt, 72.26999pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=435.6108pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-5.23714pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=42.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 37.
+(/home/sharath/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/sharath/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count348
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+(report.out) (report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+\c@lstlisting=\count349
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/home/sharath/.miktex/texmfs/install/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\toptafiddle=\skip195
+\bottafiddle=\skip196
+\openout2 = `abstract.aux'.
+
+
+(abstract.tex
+! Misplaced alignment tab character &.
+l.10 ...tics core business involves offering plug&
+                                                  play software solutions fo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (4.74428pt too wide) in paragraph at lines 16--17
+[]\OT1/ptm/m/n/12 Throughout the in-tern-ship, I have also learnt many things a
+bout ROS, Docker
+ []
+
+) [1
+
+
+{/home/sharath/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+\openout2 = `acknowledge.aux'.
+
+
+(acknowledge.tex)
+\openout2 = `executive_summary.aux'.
+
+ (executive_summary.tex) (report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+ [2
+
+
+
+
+
+
+
+
+]) [3] (report.lof)
+[4] (report.lot) [5]
+\openout2 = `Abbreviations.aux'.
+
+ (Abbreviations.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--20
+
+ []
+
+) [6
+
+]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex
+! Misplaced alignment tab character &.
+l.5 ... has been implemented on 30 AMR's in Audi &
+                                                   Bär Automation. In 2018 ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<images/download.png, id=281, 374.39874pt x 135.50626pt>
+File: images/download.png Graphic file (type png)
+<use images/download.png>
+Package pdftex.def Info: images/download.png  used on input line 8.
+(pdftex.def)             Requested size: 196.53943pt x 71.13188pt.
+[1
+
+
+
+
+ <./images/download.png>]
+<images/structure.jpg, id=289, 493.3632pt x 277.5168pt>
+File: images/structure.jpg Graphic file (type jpg)
+<use images/structure.jpg>
+Package pdftex.def Info: images/structure.jpg  used on input line 47.
+(pdftex.def)             Requested size: 455.26978pt x 256.0748pt.
+
+Overfull \hbox (19.65898pt too wide) in paragraph at lines 47--48
+ [] 
+ []
+
+[2] [3 <./images/structure.jpg>]
+<images/mesh.png, id=308, 1679.27374pt x 812.03375pt>
+File: images/mesh.png Graphic file (type png)
+<use images/mesh.png>
+Package pdftex.def Info: images/mesh.png  used on input line 72.
+(pdftex.def)             Requested size: 294.18478pt x 142.26378pt.
+ [4 <./images/mesh.png>]
+<images/ui_ux.png, id=318, 1927.2pt x 1084.05pt>
+File: images/ui_ux.png Graphic file (type png)
+<use images/ui_ux.png>
+Package pdftex.def Info: images/ui_ux.png  used on input line 106.
+(pdftex.def)             Requested size: 435.60095pt x 284.52603pt.
+ [5]
+<images/str.jpeg, id=331, 2055.68pt x 1541.76pt>
+File: images/str.jpeg Graphic file (type jpg)
+<use images/str.jpeg>
+Package pdftex.def Info: images/str.jpeg  used on input line 118.
+(pdftex.def)             Requested size: 56.89993pt x 56.88425pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 12
+1.
+
+<images/mir1.jpeg, id=332, 1530.71875pt x 1342.01375pt>
+File: images/mir1.jpeg Graphic file (type jpg)
+<use images/mir1.jpeg>
+Package pdftex.def Info: images/mir1.jpeg  used on input line 129.
+(pdftex.def)             Requested size: 71.12163pt x 71.1182pt.
+[6 <./images/ui_ux.png> <./images/str.jpeg>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 13
+2.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+136.
+
+<images/mir2.jpeg, id=339, 1541.76pt x 2055.68pt>
+File: images/mir2.jpeg Graphic file (type jpg)
+<use images/mir2.jpeg>
+Package pdftex.def Info: images/mir2.jpeg  used on input line 138.
+(pdftex.def)             Requested size: 71.11708pt x 71.10924pt.
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 14
+1.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+145.
+
+<images/cob.jpeg, id=340, 1541.76pt x 2055.68pt>
+File: images/cob.jpeg Graphic file (type jpg)
+<use images/cob.jpeg>
+Package pdftex.def Info: images/cob.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 71.11708pt x 71.10924pt.
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+0.
+
+<images/operation.jpg, id=341, 1897.0875pt x 1010.77625pt>
+File: images/operation.jpg Graphic file (type jpg)
+<use images/operation.jpg>
+Package pdftex.def Info: images/operation.jpg  used on input line 158.
+(pdftex.def)             Requested size: 435.59727pt x 284.52689pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./images/mir1.jpeg> <./images/mir2.jpeg> <./images/cob.jpeg>]) [8 <./images
+/operation.jpg>] [9]
+\openout2 = `technicalbackground.aux'.
+
+ (technicalbackground.tex
+<images/ros_logo.png, id=361, 469.755pt x 150.5625pt>
+File: images/ros_logo.png Graphic file (type png)
+<use images/ros_logo.png>
+Package pdftex.def Info: images/ros_logo.png  used on input line 22.
+(pdftex.def)             Requested size: 221.9389pt x 71.13188pt.
+ [10
+
+
+
+
+ <./images/ros_logo.png>]
+[11] [12]
+<images/docker_architecture.png, id=375, 853.1875pt x 405.515pt>
+File: images/docker_architecture.png Graphic file (type png)
+<use images/docker_architecture.png>
+Package pdftex.def Info: images/docker_architecture.png  used on input line 114
+.
+(pdftex.def)             Requested size: 435.61458pt x 284.533pt.
+ [13 <./images/docker_architecture.png>]
+<images/vda.jpg, id=384, 1027.84pt x 578.16pt>
+File: images/vda.jpg Graphic file (type jpg)
+<use images/vda.jpg>
+Package pdftex.def Info: images/vda.jpg  used on input line 158.
+(pdftex.def)             Requested size: 435.61075pt x 284.52713pt.
+ [14
+
+] [15 <./images/vda.jpg>]) [16]
+\openout2 = `Concept.aux'.
+
+ (Concept.tex [17
+
+
+
+
+]
+! Misplaced alignment tab character &.
+l.18 ...g from the topic. To upload bag easy drag&
+                                                  drop method is used. Then ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<images/architecture.jpg, id=404, 3294.3075pt x 1618.045pt>
+File: images/architecture.jpg Graphic file (type jpg)
+<use images/architecture.jpg>
+Package pdftex.def Info: images/architecture.jpg  used on input line 25.
+(pdftex.def)             Requested size: 435.56374pt x 284.52003pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19 <./images/architecture.jpg>] [20]) [21]
+\openout2 = `Implementation.aux'.
+
+ (Implementation.tex
+<images/rest-api.png, id=430, 1517.67pt x 368.37625pt>
+File: images/rest-api.png Graphic file (type png)
+<use images/rest-api.png>
+Package pdftex.def Info: images/rest-api.png  used on input line 12.
+(pdftex.def)             Requested size: 435.59727pt x 227.62083pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/frontend-rosbag.png, id=431, 1927.2pt x 1084.05pt>
+File: images/frontend-rosbag.png Graphic file (type png)
+<use images/frontend-rosbag.png>
+Package pdftex.def Info: images/frontend-rosbag.png  used on input line 22.
+(pdftex.def)             Requested size: 435.60095pt x 284.52603pt.
+[22
+
+
+
+
+] [23 <./images/rest-api.png> <./images/frontend-rosbag.png>]) [24]
+\openout2 = `Verificationandvalidation.aux'.
+
+
+(Verificationandvalidation.tex
+Overfull \hbox (1.3289pt too wide) in paragraph at lines 14--15
+\OT1/ptm/m/n/12 Every code of this project is main-tained as sep-a-rate repos-i
+-tory in the Git-lab of Node robotics.
+ []
+
+<images/code-review.png, id=446, 962.59625pt x 621.32124pt>
+File: images/code-review.png Graphic file (type png)
+<use images/code-review.png>
+Package pdftex.def Info: images/code-review.png  used on input line 19.
+(pdftex.def)             Requested size: 435.60252pt x 284.52188pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25
+
+
+
+
+]
+<images/cicd.png, id=456, 671.50874pt x 679.53876pt>
+File: images/cicd.png Graphic file (type png)
+<use images/cicd.png>
+Package pdftex.def Info: images/cicd.png  used on input line 31.
+(pdftex.def)             Requested size: 281.16081pt x 284.52756pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <./images/code-review.png>]) [27 <./images/cicd.png>]
+\openout2 = `conclusion.aux'.
+
+ (conclusion.tex)
+[28
+
+
+
+
+]
+\openout2 = `reference.aux'.
+
+ (reference.tex) [29
+
+
+
+
+]
+\openout2 = `appendix.aux'.
+
+ (appendix.tex) [30
+
+
+
+
+] [31]
+\tf@toc=\write5
+\openout5 = `report.toc'.
+
+\tf@lof=\write6
+\openout6 = `report.lof'.
+
+\tf@lot=\write7
+\openout7 = `report.lot'.
+
+ (report.aux (abstract.aux)
+(acknowledge.aux) (executive_summary.aux) (Abbreviations.aux) (introduction.aux
+) (technicalbackground.aux) (Concept.aux) (Implementation.aux)
+(Verificationandvalidation.aux) (conclusion.aux) (reference.aux) (appendix.aux)
+)
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: BA3B8CE16D89E34902AD1157F5CFCDCA;5626.
+ ) 
+Here is how much of TeX's memory you used:
+ 16463 strings out of 478585
+ 261939 string characters out of 2848215
+ 605204 words of memory out of 3000000
+ 34196 multiletter control sequences out of 15000+600000
+ 483490 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,13n,79p,816b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/sharath/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/shar
+ath/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/sharath/.mik
+tex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb>
+Output written on report.pdf (37 pages, 4704056 bytes).
+PDF statistics:
+ 545 PDF objects out of 1000 (max. 8388607)
+ 158 named destinations out of 1000 (max. 500000)
+ 430 words of extra memory for PDF output out of 10000 (max. 10000000)
+
